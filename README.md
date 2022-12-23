@@ -1,2 +1,1 @@
-# grid-garden-game
-grid-garden-game
+<h1>grid garden game solutions</h1>
